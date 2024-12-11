@@ -17,6 +17,7 @@
         if (countElement == -1) {
         }else{
             System.out.println("array count value is "+ countElement); 
+            System.out.println(n-countElement);
 
         }
     }
